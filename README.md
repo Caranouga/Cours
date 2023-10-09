@@ -4,10 +4,6 @@
 
 Cliquez ici pour aller sur le site: [https://caranouga.github.io/cours](https://caranouga.github.io/cours)
 
-<h2>🍰 Contribution Guidelines:</h2>
-
-Veuillez lire CONTRIBUTING.md avant de faire une pull request
-
 <h2>🛡️ License:</h2>
 
 This project is licensed under the CC BY-NC-SA
