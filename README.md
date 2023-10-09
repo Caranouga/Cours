@@ -1,8 +1,15 @@
-Ceci est le dépôt correspondant au site [https://glassus.github.io/premiere_nsi/](https://glassus.github.io/premiere_nsi/).
+<h1 align="center" id="title">Cours</h1>
 
+<p id="description">Vous pouvez retrouver ici toute sorte de cours</p>
 
-gilles.lassus [at] ac-bordeaux.fr
+<h2>🚀 Demo</h2>
 
-Lycée François Mauriac / Bordeaux  
+[https://caranouga.github.io/cours](https://caranouga.github.io/cours)
 
-L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
+<h2>🍰 Contribution Guidelines:</h2>
+
+Veuillez lire CONTRIBUTING avant de faire une pull request
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the CC BY-NC-SA
