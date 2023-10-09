@@ -2,7 +2,7 @@
 
 <p id="description">Vous pouvez retrouver ici toute sorte de cours</p>
 
-Cliquez ici pour aller sur le site: [https://caranouga.github.io/cours](https://caranouga.github.io/cours)
+Cliquez ici pour aller sur le site: [https://caranouga.github.io/Cours](https://caranouga.github.io/Cours/)
 
 <h2>🛡️ License:</h2>
 
